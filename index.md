@@ -9,3 +9,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/AdithyaRajesh10/.git/
 ```
+- [x] Finished adding headers to text
+- [x] added an image
+- [x] successfully added code
+- [ ] step 5 is remaining
